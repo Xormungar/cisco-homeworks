@@ -1,0 +1,16 @@
+{
+  "animals": {
+    "files": ["cat.gif", "kitten.jpg"],
+    "tags": ["mammals", "cats"]
+  },
+  "tea": {
+    "files": ["hot-tea.png"],
+    "tags": ["green", "black"]
+  },
+  "colors": {
+    "files": ["rainbow.jpg", "double-rainbow.jpg"],
+    "tags": ["blue", "purple", "red", "violet", {
+      "invisible": "ultra-violet"
+    }]
+  }
+}
